@@ -1,0 +1,60 @@
+{
+    "results": [{
+            "id": 1,
+            "product_name": "Croquettes",
+            "description": "Aliment complet pour la nutrition quotidienne du chat adulte. Toutes les recettes sont préparées avec 26% de viande ou de poisson frais et HFC, offrant jusqu’à 46% de viande ou de poisson au total.Grâce à ses protéines animales de haute qualité et un savant mélange de céréales, Holistic offre au chat un repas satisfaisant tous ses besoins nutritionnels quotidiens.Formulées sans OGM et naturellement préservées sans colorants artificiels ni conservateurs chimiques. Holistic promet un repas equilibré et complet. En outre, avec une qualité dont la transparence est vérifiable dès la lecture de l’étiquette.            Le sigle HFC signifie que la viande ou le poisson utilisés dans les recettes étaient à l’origine propres à la consommation humaine.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/10/ALC624.jpg",
+            "price": 18.30
+        },
+        {
+            "id": 2,
+            "product_name": " Croquettes",
+            "description": "Aliment complet pour la nutrition quotidienne du chat adulte. Formulé avec des prébiotiques contribuant au bon fonctionnement intestinal.Toutes les recettes sont préparées avec 26% de viande ou de poisson frais et HFC. Grâce à ses proteines animales de haute qualité et un savant mélange de céréales, Holistic offre au chat un repas satisfaisant tous ses besoins nutritionnels quotidiens. Formulées sans OGM et naturellement préservées sans colorants artificiels ni conservateurs chimiques. Holistic promet un repas équilibré et complet. En outre, avec une qualité dont la transparence est vérifiable dès la lecture de l’étiquette. Le sigle HFC signifie que la viande ou le poisson utilisés dans les recettes étaient à l’origine propres à la consommation humaine.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/10/ALC674.jpg",
+            "price": 18.30
+        },
+        {
+            "id": 3,
+            "product_name": "Les pâtées ",
+            "description": "Almo Nature  est un aliment humide exclusivement élaborée à partir d’ingrédients à l’origine propres à la consommation humaine. Les pâtées pour chat Almo HFC  constituent une alimentation saine et équilibrée pour votre chat. De plus, la recette est composée de maquereau frais cuit à la vapeur et conservé dans son propre bouillon de cuisson. Ce procédé permet de préserver les micronutriments ainsi que la saveur de l’ingrédient. Cette variété de poisson est connue pour son odeur et sa saveur particulièrement intenses. Votre chat ne manquera pas de l’apprécier. Hautement digestible, cet aliment convient parfaitement aux animaux souffrant de sensibilité alimentaire. De plus, la nourriture humide HFC contient tous les nutriments indispensables aux chatsLaissez toujours un bol d’eau fraîche à la disposition de votre animal de compagnie pour qu’il puisse s’hydrater correctement. Conservez la boîte dans un endroit frais et sec. Après ouverture, mettez-la immédiatement au réfrigérateur et ne dépassez pas les 24 heures pour donner les restes à l’animal.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/09/ALC5432H.jpg",
+            "price": 1.29
+        },
+        {
+            "id": 4,
+            "product_name": "Les pâtées",
+            "description": "Almo Nature  est un aliment humide exclusivement élaborée à partir d’ingrédients à l’origine propres à la consommation humaine.Préparée à base de Poulet et de foie, cette recette va certainement plaire à votre animal, même au plus exigeant.De plus, la nourriture humide HFC contient tous les nutriments indispensables aux chats. Formule sans céréales et sans additifs chimiques. En outre, Garantis HFC, ses ingrédients sont entièrement naturels et à l’origine aptes à la consommation humaine. De foie et du poulet sont cuits au bouillon pour favoriser l’hydratation naturelle de l’animal. Grâce à sa saveur exquise et son arôme très appétissant, cette nourriture pour chat ravira tous les palais.Laissez toujours un bol d’eau fraîche à la disposition de votre animal de compagnie pour qu’il puisse s’hydrater correctement.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/09/ALC5413H.png",
+            "price": 1.29
+        },
+        {
+            "id": 5,
+            "product_name": "Boite",
+            "description": "Leonardo Lapin est un aliment humide au lapin pour chats adultes, de plus d’un an.La viande de lapin est particulièrement digeste et maigre.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/08/leonardo-boite-super-premium-riche-en-lapin.jpg",
+            "price": 1.25
+        },
+        {
+            "id": 6,
+            "product_name": "Boite",
+            "description": "Leonardo Poisson de mer est un aliment humide riche en poisson et en viande pour chat adulte. LEONARDO poisson de mer est garanti sans arômes artificiels et sans conservateursLe poisson, à la base de cette recette, est une source essentielle d’acides gras Oméga-3 et de substances minérales.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/08/leonardo-boite-super-premium-riche-en-poisson-de-mer.jpg",
+            "price": 1.25
+        },
+        {
+            "id": 7,
+            "product_name": "Sachet Fraîcheur",
+            "description": "PFC Sensitive est une gamme d’aliments humide formulée avec des prébiotiques et des minéraux pour contribuer au bon fonctionnement intestinal des chats.La présence de sépiolite contribue à la formation d’un film protecteur sur les parois intestinales.Les recettes humides PFC Sensitive apportent une hydratation naturelle est sont idéales pour les chats présentant une sensibilité intestinale.Enrichies avec des vitamines et des minéraux, elles offrent un repas complet savoureux pour les chats adultes.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/10/ALC5294.jpg",
+            "price": 1.20
+        },
+        {
+            "id": 8,
+            "product_name": "Sachet Fraîcheur",
+            "description": "PFC Sensitive est une gamme d’aliments humide formulée avec des prébiotiques et des minéraux pour contribuer au bon fonctionnement intestinal des chats.La présence de sépiolite contribue à la formation d’un film protecteur sur les parois intestinales.Les recettes humides PFC Sensitive apportent une hydratation naturelle est sont idéales pour les chats présentant une sensibilité intestinale. Enrichies avec des vitamines et des minéraux, elles offrent un repas complet savoureux pour les chats adultes.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/10/ALC5291.jpg",
+            "price": 1.20
+        }
+
+    ]
+}

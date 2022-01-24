@@ -1,0 +1,59 @@
+{
+    "results": [{
+            "id": 28,
+            "product_name": "Arbre à chat XXL Oskar",
+            "description": "L'arbre à chat XXL Oskar, de la marque Allemande de grande qualité Trixie, est particulièrement élaboré pour répondre aux besoins des chats âgés pouvant souffrir de problème de mobilité (arthrose, arthrite....) et pour les chats handicapés.",
+            "image": "https://www.auberdog.com/public/img/conteneurs/chats-trixie-arbre-a-chat-xxl-oskar-pour-chat-age-82187446394-500x500.jpeg?token=082ebeb7ddd03da2109a02931b8190fc",
+            "price": 339.99
+        },
+        {
+            "id": 29,
+            "product_name": "Arbre à chat MARCEL",
+            "description": "Arbre à chat 141 cm MARCEL, Griffoir, Grattoir, Sisal, Tronc + Corde de jeu + Hamac 105 cm x 60 cm x 141 cm TECTAKE. ",
+            "image": "https://cdn.manomano.com/images/images_products/2572316/P/7560291_1.jpg",
+            "price": 69.99
+        },
+        {
+            "id": 30,
+            "product_name": "Griffoir pour chat en jonc de mer",
+            "description": "Avec ce griffoir pour chat en jonc de mer + jouet Brigitte votre chat est assuré de longues heures de jeux. Ce griffoir présente plusieurs particularités. En effet, il n'est pas en sisal mais en jonc de mer, plus résistant encore.",
+            "image": "https://napoleon-storage.s3.eu-west-3.amazonaws.com/product-images/main/griffoir-pour-chat-en-jonc-de-mer-jouet-brigitte-5c2f110ab9a09.jpg",
+            "price": 21.90
+        },
+        {
+            "id": 31,
+            "product_name": "Griffoir design LE TRONC XXL",
+            "description": "Le griffoir pour chat XL en forme de tronc est un griffoir en carton ultra robuste qui va permettre à votre chat d'aiguiser ses griffes.",
+            "image": "https://dog-and-cat-design.com/wp-content/uploads/2020/05/letronc-noir1.jpg",
+            "price": 159
+        },
+        {
+            "id": 32,
+            "product_name": "Harnais avec laisse KITTY CAT",
+            "description": "Harnais et laisse pour chatons.tour de cou de 15 a 22 cm.tour de ventre de 20 a 32 cm.avec laisse de 1.20m.KITTY CAT vert pour les chatons, Réglable.",
+            "image": "https://static.fnac-static.com/multimedia/Images/A1/A1/28/FE/16656545-1505-1540-1/tsp20210416180839/Harnais-avec-laie-1-20m-KITTY-CAT-vert-pour-chatons.jpg",
+            "price": 13.99
+        },
+        {
+            "id": 33,
+            "product_name": "Panier pour chat SPHERE",
+            "description": "Panier pour chat en polyester, coloris crème et gris avec coussin amovible et réversible.",
+            "image": "https://www.cocktail-scandinave.fr/Vbeta2018/wp-content/uploads/2019/11/BO672-016.jpg",
+            "price": 12.90
+        },
+        {
+            "id": 34,
+            "product_name": "Panier résine tréssée",
+            "description": "Fabriqué en résine tressée imitation rotin et fourni avec un grand coussin en coton d'une grande douceur, ce panier pour chat deviendra rapidement son meilleur ami.",
+            "image": "https://media.adeo.com/marketplace/MKP/82728608/c911aee93a03e3f9c600b245492809f2.jpeg?width=650&height=650&format=jpg&quality=80&fit=bounds",
+            "price": 74.90
+        },
+        {
+            "id": 35,
+            "product_name": "Bol en céramique pour chat",
+            "description": "Boel en céramique de taille 16cm, Le bol est légèrement surélevé grâce à son socle en bambou ce qui empêche votre animal de manger dans une mauvaise posture atténuant ainsi ses douleurs articulaires et les pressions sur ses vertèbres cervicales tout en évitant les régurgitations.",
+            "image": "https://cdn.shopify.com/s/files/1/0330/6199/4628/products/H4a61690ed9fa435ba07fd7993718f8a8L_960x.jpg?v=1633553416",
+            "price": 39.90
+        }
+    ]
+}

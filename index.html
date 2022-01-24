@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CatShop</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <header>
+        <nav class="myNav">
+            <div class="row">
+                <!--Menu burger mobile-->
+                <div class="col dropdown d-block d-md-block d-lg-block d-xl-none d-xxl-none">
+                    <i class="fas fa-bars iBars m-2" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false"></i>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                        <li><a class="dropdown-item" href="#">Nourritures</a></li>
+                        <li><a class="dropdown-item" href="#">Produits d'hygiène</a></li>
+                        <li><a class="dropdown-item" href="#">Jouets</a></li>
+                        <li><a class="dropdown-item" href="#">Matériel</a></li>
+                    </ul>
+                </div>
+                <!--Menu format WEB-->
+                <div class="col-2 text-center d-none d-md-none d-lg-none d-xl-block d-xxl-block">
+                    <img src="/assets/img/logoCat.png" alt="Logo, cat'shop" height="40px" class="m-3">
+                </div>
+                <div class="col-2 text-center d-none d-md-none d-lg-none d-xl-block d-xxl-block">
+                    <button id="foodBtn" class="navButton">Nourriture</button>
+                </div>
+                <div class=" col-2 text-center d-none d-md-none d-lg-none d-xl-block d-xxl-block">
+                    <button id="hygienBtn" class="navButton">Produits d'hygiène</button>
+                </div>
+                <div class="col-2 text-center d-none d-md-none d-lg-none d-xl-block d-xxl-block">
+                    <button id="catgameBtn" class="navButton">Jouets</button>
+                </div>
+                <div class="col-2 text-center d-none d-md-none d-lg-none d-xl-block d-xxl-block">
+                    <button id="MaterielCat" class="navButton">Matériel</button>
+                </div>
+                <!--Icon panier qui ne bouge pas-->
+                <!-- Button trigger modal -->
+                <div class="col">
+                    <button type="button" class="btn float-end" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    <i class="fas fa-shopping-cart iCart"></i></button>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <section>
+            <!--Introduction avec photo -->
+            <div class="row shadow catImg d-none d-md-none d-lg-none d-xl-block d-xxl-block">
+                <h1 class="myTitle">Bienvenue chez Cat'Shop</h1>
+                <p class="col-6 pText">Portés par la conviction qu'une vie de chat vaut le coup d'être vécue si on l'entoure de confort et de jeux, nous vous proposons sur cette boutique tout ce qu'il faut pour parfaire cette mission. Vous n'avez qu'à choisir ce dont votre
+                    félin à besoin parmi toutes nos collections, et nous les livrons à votre porte sans encombre.</p>
+                <p class="col-6 pText">Nous collaborons avec différents fournisseurs proposant des produits pour la plupart fais mains, nous prenons donc ce qu'il y a de mieux en terme de qualité mais aussi certifiée non toxique pour l'animal. Les critères très exigeants de
+                    nos propres félins font que chaque produit que vous pourrez retrouver sur notre boutique sont fiables et durables.</p>
+            </div>
+            <h2 class="text-center myTitle d-block d-md-block d-lg-block d-xl-none d-xxl-none">Bienvenue chez Cat'Shop</h2>
+        </section>
+        <section>
+            <!--Row titre + séparation-->
+            <div class="row justify-content-center mt-5">
+                <div class="col-12 text-center">
+                    <h2 class="hline-bottom catTitle-color" id="categoryTitle"></h2>
+                </div>
+            </div>
+            <!--Fin du row titre-->
+            <!--Début du premier row de cards-->
+            <div class="container">
+                <div id="articleContent" class="row mt-5">
+                </div>
+            </div>
+        </section>
+        <!--Fin de la section produits-->
+        <section>
+            <!--photo + conseil-->
+        </section>
+        <section>
+            <div class="container p-5">
+                <!--logo-->
+                <div class="row myBorder">
+                    <div class="col text-center mb-5">
+                        <img src="/assets/img/logocatlogo.png" alt="Logo Cat'Shop" height="200px">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="shadow align-self-center d-flex text-center col -12 col-sm-6">
+                        <p>Un service clients à votre écoute :<br> Vous hésitez dans le choix du produit le plus adapté à vos besoins ? Vous avez une question sur votre commande ?<br> Notre service clients est à votre disposition pour vous guider dans vos
+                            achats du lundi au vendredi de 10h à 17h au 09 88 45 55 55<br> Des conseillers en nutrition peuvent vous conseiller gratuitement grâce à un bilan personnalisé.</p>
+                    </div>
+                    <div class="col-12 col-sm-6">
+                        <img class="shadow border border-black img-fluid" src="assets/img/equipe-animalerie-1024x683.jpg" />
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!--liens reseaux sociaux-->
+    <footer class="text-center text-lg-start bg-light text-muted">
+        <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+            <div class="me-5 d-none d-lg-block">
+                <span>Social networks:</span>
+            </div>
+            <div>
+                <a href="" class="me-4 text-reset">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+                <a href="" class="me-4 text-reset">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <a href="" class="me-4 text-reset">
+                    <i class="fab fa-google"></i>
+                </a>
+                <a href="" class="me-4 text-reset">
+                    <i class="fab fa-instagram"></i>
+                </a>
+                <a href="" class="me-4 text-reset">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+                <a href="" class="me-4 text-reset">
+                    <i class="fab fa-github"></i>
+                </a>
+            </div>
+        </section>
+        <section class="">
+            <div class="container text-center text-md-start mt-5">
+                <div class="row mt-3">
+                    <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+                        <h6 class="text-uppercase fw-bold mb-4">
+                            <i class="fas fa-gem me-3"></i>CatShop
+                        </h6>
+                    </div>
+                    <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <h6 class="text-uppercase fw-bold mb-4">
+                            Products
+                        </h6>
+                        <p>
+                            <a href="#!" class="text-reset">Angular</a>
+                        </p>
+                        <p>
+                            <a href="#!" class="text-reset">React</a>
+                        </p>
+                    </div>
+                    <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                        <h6 class="text-uppercase fw-bold mb-4">
+                            Liens Utiles
+                        </h6>
+                        <p>
+                            <a href="#!" class="text-reset">Pricing</a>
+                        </p>
+                        <p>
+                            <a href="#!" class="text-reset">Settings</a>
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                        <h6 class="text-uppercase fw-bold mb-4">
+                            Contact :
+                        </h6>
+                        <p><i class="fas fa-home me-3"></i> Versaille, France</p>
+                        <p>
+                            <i class="fas fa-envelope me-3"></i> catshop@catshop.com
+                        </p>
+                        <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
+                        <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+            © 2021 Copyright:
+            <a class="text-reset fw-bold" href="">catshop@catshop.com</a>
+        </div>
+        <!-- Copyright -->
+    </footer>
+    <!-- Footer -->
+    <!-- Button trigger modal -->
+    Launch demo modal
+    </button>
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog  modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title d-flex row" id="exampleModalLabel">Panier</h5>
+                </div>
+                <div class="modal-body">
+                    <div class="container" id="containerModal">
+                    </div>
+                </div>
+                <div class="modal-footer" id="footerModal">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                    <p id="modalTotalPrice"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="../assets/js/script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,60 @@
+{
+    "results": [{
+            "id": 11,
+            "product_name": "Litière",
+            "description": "La litière CatLitter Almo Nature est une litière pour chat biodégradable, compostable, et peut même être jetée dans les toilettes. Elle est constituée de fibres végétales et permet une agglomération rapide, La litière végétale CATLITTER ne contient pas de poussières, de silice ou d’argile. Elle assure un excellent contrôle des odeurs, et grâce au pouvoir concentré des fibres végétales, elle permet une agglomération ultra-rapide, laissant la litière environnante et le bac parfaitement propres.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2021/07/la_3566c524f9d5d7027454a783c841250ba711521558892.jpg",
+            "price": 14.90
+        },
+        {
+            "id": 12,
+            "product_name": "Litière",
+            "description": "La litière Perlinette en silice se présente sous forme de fines granules. Chaque cristal de silice à un taux d’absorption de 150%. Cette litière permet ainsi une absorption maximale et est laissée sèche et sans odeurs. Elle est ainsi réutilisable longtemps.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/08/41Mxu1EpWeL.jpg",
+            "price": 18.30
+        },
+        {
+            "id": 13,
+            "product_name": "Litière",
+            "description": "Fabriquer à 100% avec de l’argile naturelle pure, la litière OdouLock possède un excellent taux d’absorption de 580% de son poids. 99,9% sans poussière, ce qui est mieux pour vous et pour les systèmes respiratoires de votre chat.Garantie sans odeur pendant 40 jours.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/10/litiere-odour-lock-poudre-bebe.jpg",
+            "price": 14.25
+        },
+        {
+            "id": 14,
+            "product_name": "Litière",
+            "description": "Litière pour chat naturelle et écologique. Perlinette bois de sapin est extrêmement absorbante. En effet, elle absorbe jusqu’à 200% de son poids en eau.En Outre, elle neutralise les odeurs naturellement.Compacte, agglomérant cette litière est certifiée PEFC. Elle est aussi compostable et donc écoresponsable.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/08/perlinettelitie_reboisdesapin10l_1.jpg",
+            "price": 15.00
+        },
+        {
+            "id": 15,
+            "product_name": "Bac à litière",
+            "description": "Grande maison de toilette pour chat, coque amovible avec poignée, filtre à charbon actif, fermetures par clips, porte battante, picots en caoutchouc antidérapants. Dimensions : L 71 x l 56 x H 47 cm.",
+            "image": "https://shop-cdn-m.mediazs.com/bilder/maison/de/toilette/trixie/primo/xxl/pour/chat/4/400/114828_pla_trixie_katzentoilette_primoxxl_haube_gblauweiss_hs_01_4.jpg",
+            "price": 30.99
+        },
+        {
+            "id": 16,
+            "product_name": "Bac à litière",
+            "description": "Bac à litière pour chat avec système hygiénique de séparation, avec 2 bacs et 1 tamis pour un nettoyage facile et un usage économique, fermetures par clips. Dimensions : L 59 x l 39 x H 22 cm.",
+            "image": "https://static.cynoland.com/wp-content/uploads/2020/08/leonardo-boite-super-premium-riche-en-poisson-de-mer.jpg",
+            "price": 18.29
+        },
+        {
+            "id": 17,
+            "product_name": "Désodorisant pour litière",
+            "description": "Désodorisant pour litière Tigerino, prolonge la durée d'utilisation et la fraîcheur de la litière. Découvrez les 3 senteurs à prix avantageux grâce à ce lot mixte : parfum printanier, talc pour bébé et fleur de coton.",
+            "image": "https://shop-cdn-m.mediazs.com/bilder/offre/dcouverte/tigerino/dsodorisant/pour/litire/8/400/tigerino_desodorisant_offre_essai_8.jpg",
+            "price": 12.99
+        },
+        {
+            "id": 18,
+            "product_name": "Désodorisant pour litière",
+            "description": "Désodorisant antibactérien, détruit 99,99 % des germes, apporte une odeur fraîche. Enlève les taches de vomi, d'urine et d'excréments, désinfecte la maison de toilette, les accessoires et les textiles.",
+            "image": "https://shop-cdn-m.mediazs.com/bilder/dsodorisant/savic/refreshr/cleaning/2/400/33641_savic_refresh_r_spray_top_seller_2.jpg",
+            "price": 16.49
+        }
+
+    ]
+}

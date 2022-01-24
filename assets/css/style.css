@@ -1,0 +1,109 @@
+.catImg {
+    background-image: url(/assets/img/CatImg.jpeg);
+    background-position: center;
+    background-size: 75%;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+    height: 400PX;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 60px;
+}
+
+
+/* Création de la ligne de séparation titre catégorie */
+
+.hline-bottom {
+    padding-bottom: 30px;
+    border-bottom: 2px solid #F59732;
+    /* whichever color you prefer */
+}
+
+
+/*Couleur du texte du titre catégorie*/
+
+.catTitle-color {
+    color: #007CA8;
+}
+
+
+/*Création du style prix des cars */
+
+.price-style {
+    background-color: #F59732;
+    border: 2px solid #007CA8;
+    color: white;
+    border-radius: 30px;
+}
+
+
+/*Modification style du stitre des cards et insertion ligne de séparation*/
+
+.card-title {
+    font-size: 20px;
+    border-top: 1px solid;
+    padding-top: 20px;
+}
+
+.myNav {
+    background-color: #f59732;
+    width: 100%;
+    height: 80px;
+}
+
+.myTitle {
+    color: #31C1F5;
+    padding: 5px;
+}
+
+.colorbg {
+    background-color: #f59732;
+}
+
+.colorbg:hover {
+    background-color: #f59732a5;
+}
+
+.navButton {
+    background-color: #f59732;
+    border-style: none;
+    margin: 20px;
+    font-size: 19px;
+    color: #007ca8;
+}
+
+.navButton:hover {
+    text-decoration: underline;
+}
+
+.iCart {
+    font-size: 30px;
+    margin-right: 15px;
+    padding-top: 15px;
+    color: #007ca8
+}
+
+.iBars {
+    color: #007ca8;
+    font-size: 30px;
+}
+
+.pText {
+    color: #007ca8;
+}
+
+.myBorder {
+    margin-bottom: 50px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #F59732;
+    margin-top: 50px;
+    padding-top: 50px;
+    border-top: 2px solid #F59732;
+    color: #007ca8
+}
+
+.imageSize {
+    width: 200px;
+    height: 250px;
+}
