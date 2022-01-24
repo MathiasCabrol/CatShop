@@ -40,7 +40,7 @@ const onLoad = () => {
     }
     //Fonction Json
 const searchCategory = () => {
-        fetch("https://mathiascabrol.github.io/CatShop/assets/json/" + uri)
+        fetch("https://mathiascabrol.github.io/CatShop/assets/son/" + uri)
             .then(fetchResponse => fetchResponse.json())
             .then(jsonContent => {
                 clearCategory()
